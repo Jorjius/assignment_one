@@ -111,6 +111,22 @@ p{
     background-position-y: 241px;
     height: 480px;
   }
+  /* ----testimonials ---------------  */
+#testimonial .flex{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+#testimonial .test{
+    width: 400px;
+    background-color: #e4e4e4;
+    padding: 20px;
+    border-radius: 20px;
+}
+.avater img{
+    width: 70px;
+}
   /* --------------Footer section -------------  */
 #footer {
     background-color: #0b0d17;
