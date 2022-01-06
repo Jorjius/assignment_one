@@ -1,0 +1,81 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif
+}
+.header{
+    display: flex;
+    width: 100%;
+}
+p{
+    font-size: 18px;
+}
+.sideborder{
+    border-left: 5px solid tomato;
+    margin-right: 5px;
+    margin-left: 120px;
+    margin-top: 73px;
+    height: 150px;
+    border-radius: 5px;
+}
+.stay{
+    font-size: 65px;
+}
+.heading_one{
+    width: 48%;
+}
+.orangecolor{
+    color: orange;
+}
+.topiamge{
+    width: 50%;
+    
+}
+.explorbutton{
+    text-decoration: none;
+
+    background-color: tomato;
+
+    padding: 10px 40px;
+
+    border-radius: 5px;
+
+    color: white;
+    font-weight: 400;
+}
+/* mission section */
+.headingtwo{
+    text-align: center;
+    font-size: 40px;
+}
+.threeslides{
+    display: flex;
+    margin-left: 130px;
+}
+#myMission .card p {
+    font-size: 16px;
+    line-height: 24px;
+  }
+  .card {
+    width: 320px;
+    padding: 20px;
+    border-radius: 26px;
+  }
+  .card img {
+    width: 140px;
+    height: 140px;
+  }
+  
+  #mission {
+    background: rgba(79, 157, 166, 0.1);
+  }
+  #vission {
+    background: rgba(255, 89, 89, 0.1);
+  }
+  #goal {
+    background: #fff4d6;
+  }
+  
+  .slide_margin{
+      margin: 30px;
+  }
+  
