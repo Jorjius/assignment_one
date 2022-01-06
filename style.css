@@ -79,7 +79,7 @@ p{
       margin: 30px;
   }
   /* developer */
-  .develpolimits{
+  .contain{
       display: flex;
       margin-left: 130px;
   }
@@ -87,12 +87,18 @@ p{
       background-image: url(images/shapes/shape-1.png);
       background-size: 200px;
       background-repeat: no-repeat;
-      background-position-x: 0px;
-      background-position-y: 0px;
+      background-position-x: 48px;
+      background-position-y: 45px;
   }
   .codingimage img{
-      width: 400px;
+      width: 380px;
   }
   .develop{
       padding-left: 130px;
+  }
+  .community{
+    width: 780px; 
+  }
+  .pad{
+      padding-left: 30px;
   }
