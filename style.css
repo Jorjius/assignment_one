@@ -96,6 +96,7 @@ p{
   .develop{
       padding-left: 130px;
   }
+  /* community */
   .community{
     width: 780px; 
   }
@@ -108,4 +109,26 @@ p{
     background-repeat: no-repeat;
     background-position-x: 1200px;
     background-position-y: 241px;
+    height: 480px;
+  }
+  /* --------------Footer section -------------  */
+#footer {
+    background-color: #0b0d17;
+    margin-top: 50px;
+  }
+  #footer h2 {
+    
+    font-size: 36px;
+    line-height: 44px;
+    letter-spacing: 0.5px;
+    color: white;
+  }
+  .text-center{
+      text-align: center;
+  }
+  #footer p {
+    color: white;
+  }
+  #footer .content-area {
+    padding: 46px 0px;
   }
